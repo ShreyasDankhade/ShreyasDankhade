@@ -15,16 +15,16 @@ When I’m not accidentally creating infinite loops or arguing with my IDE about
 <img align="left" alt="Linux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
 <img align="left" alt="Docker" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />          
 <img align="left" alt="JIRA" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-<img align="left" alt="JEST" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />                  
 <img align="left" alt="GIT" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="IntelliJ" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />  
 <img align="left" alt="PhotoShop" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
           
 <br>
-<br/>
+<br>
 
 #
+
 
 ### What I Bring to the Table:
 
@@ -44,13 +44,15 @@ _P.S. My DMs are open for project ideas, memes, or proof that you, too, have cri
 
 
 ### CONNECT WITH ME
-<p align="left">
+
 <a href="mailto:shreyasdankhade75@gmail.com" target="blank"><img align="left" alt="Gmail" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png"/></a>
 
 <a href="https://www.linkedin.com/in/shreyasdankhade" target="blank"><img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
   
 <a href="https://www.leetcode.com/ShreyasDankhade" target="blank"><img align="left" alt="LeetCode" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"/></a>
-</p>
+
+
+<br>
 <br>
 
 # 
