@@ -1,6 +1,6 @@
 ## Hey there 👋
 # It's Shreyas Dankhade
-🚀 Code Connoisseur | ☕ Professional Caffeine Consumer | 🐛 Bug Whisperer Extraordinaire
+`🚀 Code Connoisseur | ☕ Professional Caffeine Consumer | 🐛 Bug Whisperer Extraordinaire`
 
 An computer science undergrad who’s mildly convinced that semicolons are just tiny winking punctuation judges here to critique my life choices. When I’m not accidentally creating infinite loops or arguing with my IDE about syntax, I’m probably knee-deep in projects that oscillate between “genius” and “why did I think this was a good idea?”
 
