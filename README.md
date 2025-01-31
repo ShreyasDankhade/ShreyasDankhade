@@ -59,9 +59,8 @@ _P.S. My DMs are open for project ideas, memes, or proof that you, too, have cri
 
 ### STATS 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasDankhade&hide_progress=true)
-
 ![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyasDankhade&show_icons=true&theme=gotham)
+
 
 
 
