@@ -12,11 +12,11 @@ An **Computer Science** underGrad who treats semicolons like a necessary evil an
 When I’m not accidentally creating infinite loops or arguing with my IDE about syntax, I’m probably knee-deep in projects that oscillate between **_“genius”_** and **_“why did I think this was a good idea?”_**
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake.svg" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ### LANGUAGES & TOOLS
