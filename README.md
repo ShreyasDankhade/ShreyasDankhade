@@ -13,9 +13,9 @@ When I’m not accidentally creating infinite loops or arguing with my IDE about
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lviffy/Lviffy/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lviffy/Lviffy/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Lviffy/Lviffy/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ShreyasDankhade/ShreyasDankhade/output/github-snake.svg" />
   </picture>
 </div>
 
