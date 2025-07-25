@@ -4,6 +4,7 @@
 **`🚀 Code Connoisseur | 🐛 Bug Whisperer Extraordinaire`**  
 <br>
 <img src="https://profile-counter.glitch.me/ShreyasDankhade/count.svg?" alt="Visitor Count" />
+<img src="https://profile-counter.deno.dev/ShreyasDankhade/count.svg" alt="Visitors Count" />
 
 </div>
 
